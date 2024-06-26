@@ -1,0 +1,11 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nome": "Gabriel Henrique",
+      "login": "gabriel",
+      "email": "gabriel@teste.com",
+      "telefone": "+5511987009668"
+    }
+  ]
+}
